@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Car.BMW" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>BMW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Car" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAACAAQEAAAACAAAAKBAAACDgAgAAAAgAQQAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Lexus" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Lexus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Melcedes" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Melcedes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Program" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Toyota" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Toyota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Vehicle" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Properties.Resources" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAEAAAAAAAIABMAAAAQAAAAAAABAAEAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Yu Gothic UI" Size="9" />
+</ClassDiagram>
