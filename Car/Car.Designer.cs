@@ -144,7 +144,7 @@
             this.Controls.Add(this.BMWPicture);
             this.Controls.Add(this.MelcedesPicture);
             this.Name = "Car";
-            this.Text = "Form1";
+            this.Text = "Car racing";
             this.Load += new System.EventHandler(this.Car_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ToyotaPicture)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.LexusPicture)).EndInit();

@@ -3,28 +3,31 @@
   <Class Name="Car.BMW" Collapsed="true">
     <Position X="0.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
       <FileName>BMW.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Car.Car" Collapsed="true">
     <Position X="9.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
     <TypeIdentifier>
-      <HashCode>QAIAAAAAACAAQEAAAACAAAAKBAAACDgAgAAAAgAQQAA=</HashCode>
+      <HashCode>AAIACAAAACAAQEAAAICAAAAKAAAACDgAABAAEAAQQAA=</HashCode>
       <FileName>Car.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Car.Lexus" Collapsed="true">
     <Position X="5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
       <FileName>Lexus.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Car.Melcedes" Collapsed="true">
     <Position X="2.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
       <FileName>Melcedes.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -38,21 +41,21 @@
   <Class Name="Car.Toyota" Collapsed="true">
     <Position X="7.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
       <FileName>Toyota.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Car.Vehicle" Collapsed="true">
     <Position X="3.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAA=</HashCode>
       <FileName>Vehicle.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Car.Properties.Resources" Collapsed="true">
     <Position X="9.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAACAAAAEAAAAAAAIABMAAAAQAAAAAAABAAEAAAAIA=</HashCode>
+      <HashCode>AAAACAAAAAAAAAAAAIABEAAAAQAAAAAAABAAEAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="Car.Properties.Settings" Collapsed="true">
